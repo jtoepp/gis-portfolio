@@ -24,7 +24,17 @@ Examples of work done in ArcGIS during my MS program at Mississippi State Univer
 
 ## Advanced GIS
 ![test](2-Advanced%20GIS/Lab5.jpg)
-![test](2-Advanced%20GIS/Lab8.jpg)
-![test](2-Advanced%20GIS/Lab9.jpg)
-![test](2-Advanced%20GIS/grad_project.jpg)
 
+**Figure 5:** A map depicting different precipitation interpolation methods alongside the absolute difference of each method.
+
+
+![test](2-Advanced%20GIS/Lab8.jpg)
+**Figure 6:** A map depicting the depth of the water table in meters.
+
+
+![test](2-Advanced%20GIS/Lab9.jpg)
+**Figure 7:** A map depicting proposed construction paths for a new road based on a custom SAW model. The two methods that were calculated were to prioritize the cheapest road cost vs. the highest aesthetic value while minimizing distance.
+
+
+![test](2-Advanced%20GIS/grad_project.jpg)
+**Figure 8:** A map depicting the optimal school location and least cost to construct a new road from the selected destination to the proposed school location. A modifed SAW model was used as in Figure 7 above, with the added consideration of the calculated best site for the school.
