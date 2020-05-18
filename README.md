@@ -9,6 +9,4 @@ Examples of work done in ArcGIS during my MS program at Mississippi State Univer
 ![test](2-Advanced%20GIS/Lab8.jpg)
 ![test](2-Advanced%20GIS/Lab9.jpg)
 ![test](2-Advanced%20GIS/grad_project.jpg)
-![test](2-Advanced%20GIS/Lab4.jpg)
-![test](2-Advanced%20GIS/Lab1_Image2.jpg)
-![test](2-Advanced%20GIS/Lab1_Image1.jpg)
+
