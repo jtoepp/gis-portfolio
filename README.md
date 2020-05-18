@@ -3,7 +3,7 @@ Examples of work done in ArcGIS during my MS program at Mississippi State Univer
 
 ## Intro to GIS
 ![test](1-Intro%20GIS/Maps/Lab6-1.jpg)
-**Figure 1:** An elevation map of the Menan Buttes in Idaho, USA,
+**Figure 1:** An elevation map of the Menan Buttes in Idaho, USA.
 
 ![test](1-Intro%20GIS/Maps/Lab8.jpg)
 **Figure 2:** A map of Starkville, Mississippi, USA, that depicts transportation concerns due to the reaction of soil type to water.
