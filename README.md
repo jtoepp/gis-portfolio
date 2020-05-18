@@ -1,7 +1,8 @@
-# ArcGIS Portfolio
-Examples of work done in ArcGIS during my MS program at Mississippi State University
+## ArcGIS Portfolio
+#### Examples of work done in ArcGIS during my MS program at Mississippi State University
+##### (A collection of 8 images to provide an overview of the total body of work.)
 
-## Intro to GIS
+### Intro to GIS
 ![test](1-Intro%20GIS/Maps/Lab6-1.jpg)
 
 **Figure 1:** An elevation map of the Menan Buttes in Idaho, USA.
@@ -22,7 +23,7 @@ Examples of work done in ArcGIS during my MS program at Mississippi State Univer
 **Figure 4:** A map depicting the estimated flash flood risk for Otibbeha County, MS, US.
 
 
-## Advanced GIS
+### Advanced GIS
 ![test](2-Advanced%20GIS/Lab5.jpg)
 
 **Figure 5:** A map depicting different precipitation interpolation methods alongside the absolute difference of each method.
