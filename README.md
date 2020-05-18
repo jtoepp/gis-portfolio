@@ -1,6 +1,6 @@
 ## ArcGIS Portfolio
 #### Examples of work done in ArcGIS during my MS program at Mississippi State University
-##### (A collection of 8 images to provide an overview of the total body of work.)
+##### *(A collection of 8 images to provide an overview of the total body of work.)*
 
 ### Intro to GIS
 ![test](1-Intro%20GIS/Maps/Lab6-1.jpg)
